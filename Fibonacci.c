@@ -2,7 +2,7 @@
 
 int main()
 {
-    int N1 = 1, N2 = 1, Cont = 2, S;
+    int N1 = 1, N2 = 1, Cont = 2, ;
     
     printf("%d  %d ", N1, N2);
     
